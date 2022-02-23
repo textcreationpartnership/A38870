@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the tryal of Algernoon Sidney who was tryed at the Kings-Bench-Bar at Westminster this present Wednesday, being the twenty fifth of November for conspiring the death of the King, and His Royal Highness, of which he was convicted</title>
+            <author>Sidney, Algernon, 1622-1683, defendant.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38870</idno>
+            <idno type="STC">Wing E3588</idno>
+            <idno type="STC">ESTC R31465</idno>
+            <idno type="EEBO-CITATION">11996091</idno>
+            <idno type="OCLC">ocm 11996091</idno>
+            <idno type="VID">52106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38870)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1009:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the tryal of Algernoon Sidney who was tryed at the Kings-Bench-Bar at Westminster this present Wednesday, being the twenty fifth of November for conspiring the death of the King, and His Royal Highness, of which he was convicted</title>
+                  <author>Sidney, Algernon, 1622-1683, defendant.</author>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sidney, Algernon, 1622-1683, --  defendant.</term>
+               <term>Trials (Treason) --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52106:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>An Exact ACCOUNT of the TRYAL OF <hi>Algernoon Sidney</hi> 
+               <abbr>Eſq</abbr> Who was Tryed at the Kings-Bench-Bar AT WESTMINSTER, This preſent <hi>Wedneſday:</hi> being the twenty firſt of <hi>Novem<g ref="char:EOLhyphen"/>ber</hi> for Conſpiring the Death of the King, and his Roy<g ref="char:EOLhyphen"/>al <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, of which he was Convicted.</head>
+            <p>THe Cou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, My Lord <hi>Chief Juſtice,</hi> Mr. Juſtice <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Mr. Juſtice <hi>Holloway,</hi> Mr. Juſtice <hi>VValcot,</hi> ſitting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ench, and the uſual O ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, being made, the Jury was called, Mr. <hi>Sidney</hi> would have challenged ſome, becauſe they were no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rueholder<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but my Lord <hi>Chief Juſtice,</hi> told him <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no Exception and that, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Caſe had been ſeveral times o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er-<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>led, and particularly <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſſels</hi> Caſe; ſo that he was forced to Acquie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and after having excepted againſt ſeveral without ſhewing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at laſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Jury was Empannelled, and the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>dge<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt El<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gantly, and Legally, opened by the Kings learn<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the witneſſes was called for the King.</p>
+            <p>The firſt that was called was Mr. <hi>VVeſt,</hi> who be<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to diſcourſe, and prove the Plot in General<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but Mr. <hi>Sidney</hi> taking<g ref="char:punc">▪</g> Exceptions at this way of proceeding my Lord <hi>Chief Juſtice,</hi> told him, it had been the ordinary way of the Court, and particularly in the Tryal of the 5 Jeſuits: ſo the Evidence proceeded, and afterwards did par<g ref="char:EOLhyphen"/>ticularize, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> though himſelf, did hold no Correſpondence with
+<pb n="2" facs="tcp:52106:2"/>
+               <!-- PDF PAGE 32 -->the Priſoner at the Bar, yet he was often told by Captain <hi>Walcot,</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he was a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ain <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, in the contriving of all, and providing of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rms.</p>
+            <p>The next appeared for the King, was Collonel <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umſey</hi> who gave much what the ſame Evidence in Ceneral: and particularly that Mr. <hi>Sidney</hi> was a great Contriver.</p>
+            <p>Then was called Mr. <hi>Keeling</hi> the firſt Diſcoverer; he ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke firſt to the Plo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in General, and ſaid in particular, towards the la<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er end of his Evi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, that he heard from others, that Mr. <hi>Sidney</hi> was all a long in the Plot.</p>
+            <p>The fourth and laſt Evidence for the King was the Lord <hi>Howard</hi> of <hi>Eſcriek,</hi> he ſwore in particular, that Mr. <hi>Sedney,</hi> had often ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, where they debated the means to Kill the King: New <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Goverment, and that he was b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; when a Traytorous Letter was writ to invite their Bretheren of <hi>Scotland,</hi> and to ſhake of Monarchie, and particularly my Lord <hi>Howard</hi> e<g ref="char:EOLhyphen"/>videnced, that Mr. <hi>Sidney,</hi> undertook to ſend the Letter, and that <hi>Aron Smith</hi> was imployed by Mr. <hi>Sidney,</hi> in this buſineſs: This was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſub<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of what my Lord <hi>Howard</hi> depoſed as to the Priſ<g ref="char:EOLhyphen"/>oner <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>Then the Kings Council produced a moſt vir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent and treach<g ref="char:EOLhyphen"/>erous Libel, that was ſeized on in Mr. <hi>Sidney's</hi> Houſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, when he was apprehended. Mr. <hi>Adderbury,</hi> the Meſſenger appeared in Court, &amp; att<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was taken there, and Sr. <hi>Philip Lloyd,</hi> atteſted it was the ſame that was before the King and Council. Then was called one Mr. <hi>Cook</hi> Goldſmith, and another Ci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>izen his Part<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, they ſaid they had often dealt with Mr. <hi>Sidney<g ref="char:punc">▪</g>
+               </hi> and had ſeen ſe<g ref="char:EOLhyphen"/>veral Letters written with his own hand, and they were fully ſa<g ref="char:EOLhyphen"/>tisfied that the abovementioned Pamphlet was written by the ſame hand that they were uſed to receive, were Written. The ſubſtance of the Pamphlet was that the Sovereign power was in the People, and that the King was but only the peoples Truſtee, and that if he would (it was true they ſaid) he might depoſe himſelf, and if he would not they might by force depoſe him, and chaſtiſe him for miſ<g ref="char:EOLhyphen"/>goverment; and that if they proceeded to depoſe the King, they did not break their Oath's becauſe the King had no Authority to im<g ref="char:EOLhyphen"/>poſe ſuch an oath, and that the Parliament were the Judges when the King did amiſs and ought to be dethroned, and that his preſent Majeſty had fallen under theſe circumſtances, and that was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he reaſon they had to juſtifie themſelves in their proceedings, and ſo to draw in the Mobile, it was a very large Pamphlet and &amp; took a great deal of time: there were ſeveral of the moſt ſeditious cla<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of this wicked Pamphlet inſerted in the Indictment.</p>
+            <p>The Kings Council, having done with their Evidence, and clear<g ref="char:EOLhyphen"/>ly proved the Pamphlet upon Mr. <hi>Sidney,</hi> he was permitted with all the Freedom immaginable to make his defence, which was very long, and not the leaſt interrupted: the Count giving him all the fair Play immaginable.</p>
+            <p>Firſt he began with matters of Law, and pleaded, that there ought to be two Witneſſes to every particular fact, but he was an<g ref="char:EOLhyphen"/>ſwered by the Court, that that Caſe had been often over-ruled; and
+<pb n="3" facs="tcp:52106:2"/>
+               <!-- PDF PAGE 32 -->that at the Tryal of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Viſcount <hi>S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fford,</hi> where was agreed on by all the Judges, that it was not neceſſary, ſo that they both pro<g ref="char:EOLhyphen"/>ved the Treaſon, ſo that if one Witneſs proved a Fact, or an overt-Act of Treaſon in one County, and another overt Act in another County, they were two good Witneſſes in Law, becauſe they both proved treaſon. His <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Argument was that he conceived him-himſelf only Guilty of Miſpr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſion of Treaſon, becauſe it could not be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oved, that he writ the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reaſonable Letter that was to be ſent into <hi>Scotland,</hi> by <hi>Aron Smith,</hi> but he was told by the Court, that his point of Law, likewife failed him in that Caſe for if one be by where Treaſon is conſulted, though they never ſay nothing, if they do not diſcover, it's not impriſion of Treaſon, but High-Treaſon, as all the Judges had reſolved in the tryal of the la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lord <hi>Ruſſel:</hi> then he endeavoured to prove, that my Lord <hi>Howard</hi> owing him ſome Mo<g ref="char:EOLhyphen"/>ney, and that he claiming it, My Lord ſpoke, that he would be re<g ref="char:EOLhyphen"/>venged on him: then he in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſted upon ſomething of foreign Laws, and flouriſhed with ſome ſentences of Scripture, which becauſe they were not penitent to the preſent proceeding were looked on as frevilous. Th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he proceeded to ſeveral other topicks, to ſhew the improbabilitie of ſuch a deſigne, he ſpeaking very Floridly, &amp; often ſmileing as if he did not quſtion but to have a good dilivery. Firſt he endeavoured to ſhew the improbabilitie of his being in ſuch a de<g ref="char:EOLhyphen"/>ſign, from the greatneſs of his Age, he being a good deal above threeſcore, and beſides very infirme: which might induce any body to believe as he ſayed, that the Fire of Ambition muſt be extin<g ref="char:EOLhyphen"/>guiſhed, and that it was fitter for him to think of a Retiring place, and give up the latter end of his days to eaſe and quiet, he having been all his life time in a perpetual hurry: His other topick was not of improbabilitie, but endeavoured to inſinuate an unpoſſibil<g ref="char:EOLhyphen"/>litie of his being concerned, becauſe he ſayed he was no popular man and conſequently unfit to be concerned in ſuch an Affaire, where it was fit the people concerned ſhould be Darlings of the Mobile, that ſo they might manage them at their pleaſure, Theſe were only looked upon by the Court as flouriſhes, which were not very mate<g ref="char:EOLhyphen"/>rial, and ſo giving him a ſhort and pithy Anſwer deſired him to pro<g ref="char:EOLhyphen"/>ceed to more ſolid arguments, and to call in his evidence, which were many but were able to ſay litle in the Priſoners behalf.</p>
+            <p>The firſt was my Lord <hi>Angleſey,</hi> he atteſted that my Lord <hi>How<g ref="char:EOLhyphen"/>ard,</hi> had proteſted after the breaking out of the Plot at my Lord <hi>Bed<g ref="char:EOLhyphen"/>fords,</hi> that he knew nothing of it, this was likewiſe atteſted by my Lord <hi>Baget,</hi> and by one Mr. <hi>Philip Howard,</hi> with many Circumſtan<g ref="char:EOLhyphen"/>ces, to long to put down in ſo little a Paper. He likewiſe produced in Court, his two Maid-Servants, who atteſted much what the ſame, that the other againſt my Lord <hi>Howard,</hi> as before moſt of them had done, at my Lord <hi>Ruſſels</hi> Tryal, and received much what the ſame Anſwer from the Court, <hi>&amp;c.</hi> that my Lord was not obliged to tell every body he met, how deeply either, he or any body elſe, was concerned in the Plot. <hi>M. Sidney,</hi> having made the beſt defence he could, ſat him down, and <hi>Mr.</hi> Soliciter General ſumm'd up the Evidence, moſt learnedly and diſtinctly. Firſt, ſhewing the con<g ref="char:EOLhyphen"/>vincing proofs on the Kings ſide, then from Point, to Point, an<g ref="char:EOLhyphen"/>ſwering
+<pb n="4" facs="tcp:52106:3"/>
+               <!-- PDF PAGE 33 -->every Objection, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by the Priſoner, afterwards my Lord <hi>Chief Juſtice</hi> ſumm'd up all, moſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> learnedly and methodically, giving the moſt Loyal Directions to the Jury.</p>
+            <p>After all was done by the Court: the Jury withdrew and having conſulted upon the buſineſs about half a quarter of an hour, Mr. <hi>Sidney,</hi> remaining at the Bar, ſmileing and talking; a Ver<g ref="char:EOLhyphen"/>dict vvas called, and O yes, being made after the uſual manner, and the Jury being called over, Mr, <hi>Angers</hi> the foreman, ſpoke for the Reſt and brought him in Guilty. Thus Judgment at laſt over<g ref="char:EOLhyphen"/>took one vvho vvas Signalie remarkable, for his Violence againſt the laſt King of of bleſſed memory: And for his ſtrange Averſion to Monarchie, he being a perfect Monarch hater.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON <hi>Printed for</hi> E Mallet, 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
